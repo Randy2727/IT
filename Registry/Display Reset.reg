@@ -1,6 +1,6 @@
-;This deletes all remembered display settings. Used for remedying a flickering screen or unresponsive screen that is connected to a Surface or other dock.
-
 Windows Registry Editor Version 5.00
+
+;This deletes all remembered display settings. Used for remedying a flickering screen or unresponsive screen that is connected to a Surface or other dock.
 
 [-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Configuration]
 
